@@ -3,5 +3,5 @@
 - J'apprends à coder sur mon temps libre (Python, C++)
 
 Contact :
-manon.capitaine04@gmail.com
-+33 6 52 15 93 41
+- manon.capitaine04@gmail.com
+- +33 6 52 15 93 41
